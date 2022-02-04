@@ -75,7 +75,7 @@
     	
     <storageModule moduleId="cdtBuildSystem" version="4.0.0">
         		
-        <project id="stm32nucleof401re_06_variableresistor.null.1703027404" name="stm32nucleof401re_06_variableresistor"/>
+        <project id="stm32nucleof401re_13_ultrasound.null.1703027404" name="stm32nucleof401re_13_ultrasound"/>
         	
     </storageModule>
     	
@@ -97,7 +97,7 @@
         		
         <configuration configurationName="Default">
             			
-            <resource resourceType="PROJECT" workspacePath="/stm32nucleof401re_06_variableresistor"/>
+            <resource resourceType="PROJECT" workspacePath="/stm32nucleof401re_13_ultrasound"/>
             		
         </configuration>
         	
