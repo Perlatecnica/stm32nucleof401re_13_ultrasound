@@ -1,1 +1,1 @@
-# stm32nucleof401re_13_ultrasound
+# stm32nucleof401re_06_variableresistor
